@@ -19,3 +19,11 @@ This is a repo for my next job
 * Grokking the System Design Interview 
 <https://bit.ly/3oTPZGm>
 
+
+## 搜集的留学项目
+* 加拿大魁省国际学生资助计划 <https://www.quebec.ca/en/education/study-quebec/financial-assistance-international-students/exemption-additional-tuition-fees-depending-program-region>
+
+## IELTS
+### 知乎经验贴<https://www.zhihu.com/collection/722051307>
+李慧芳的听力网课get听力方法
+王陆的雅思听力语料库精听，听懂全部
