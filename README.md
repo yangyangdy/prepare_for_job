@@ -27,3 +27,8 @@ This is a repo for my next job
 ### 知乎经验贴<https://www.zhihu.com/collection/722051307>
 李慧芳的听力网课get听力方法
 王陆的雅思听力语料库精听，听懂全部
+
+## 发现小红书这个宝藏app
+下面来更新一下获取的信息
+
+加拿大是一个重点进攻的方向，德国的薪资太低了一点，难受。

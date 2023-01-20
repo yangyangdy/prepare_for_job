@@ -1,0 +1,6 @@
+Error:2021/12/03 14:54:37 main.go:83: 程序crash了： panicFunc崩溃了
+Error:2021/12/03 14:55:09 main.go:83: 程序crash了： panicFunc崩溃了
+Error:2021/12/03 14:56:43 main.go:83: 程序crash了： panicFunc崩溃了
+Error:2021/12/03 14:57:23 main.go:83: 程序crash了： panicFunc崩溃了
+Error:2021/12/03 14:58:23 main.go:83: 程序crash了： panicFunc崩溃了
+Error:2021/12/03 14:59:44 main.go:83: 程序crash了： ------crash------
