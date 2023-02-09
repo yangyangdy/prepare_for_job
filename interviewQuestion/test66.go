@@ -34,6 +34,7 @@ func main() {
 		"2":2,
 		"3":3,
 	}
+	
 	var val int
 	val = mp["4"]
 	fmt.Println(val)
@@ -68,23 +69,6 @@ func main() {
 	//
 	// c := int32(*b * 100)
 	// fmt.Println(c)
-	//
-	// var err error
-	// if err == nil {
-	//	 fmt.Println("yes")
-	// }
-	//var dufeSubsidyRate *float64
-	//res := *dufeSubsidyRate //如果dufeSubsidyRate为空则会panic
-	//fmt.Println("res: ", res)
-	//date1Start, err1 := time.ParseInLocation(common.TIME_DT_LAYOUT, "2022-12-7", time.Local)
-	//if err1 != nil {
-	//	fmt.Println("error: ",err1)
-	//} else {
-	//	fmt.Println("val: ", date1Start)
-	//}
-	//
-	//t2 := time.Now().Format(common.TIME_DT_LAYOUT)
-	//fmt.Println("time now: ", t2)
 	//fmt.Println("date1Start: ", date1Start)
 
 	//type ZeroTrCityConfData struct {
