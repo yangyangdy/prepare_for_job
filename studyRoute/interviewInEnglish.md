@@ -1,5 +1,5 @@
 | 英文口语表达 | 中文 | 例句 |
-| :-----| ----: | :----: |
+| :-----| :----: | :----: |
 | I'm sorry. Would you please repeat the question? | 抱歉，你能重复一遍刚刚的问题吗 |  |
 | Excuse me, I didn't hear you. Could you please say that again? | 抱歉,您能重复一遍刚刚的问题吗 | 单元格 |
 | Excuse me,could you please **slow down a little bit**. I have **trouble** understanding you | 说慢一点可以吗，我听不太懂 | |
@@ -25,3 +25,5 @@
 | I don't remember off the top of my head | 我一时想不起来了 | |
 | one caveat | 提醒，警告 | One caveat: You must be eligible(符合条件的) to join. |
 | brute force | 暴力破解 | Now, what we saw last time is there's brute force solution. |
+| How to pronounce your name | 你的名字怎么读 | |
+| I'll be up for work in six hours/ I have to get up and go to work after 6 hours | 6小时后我就要起床去上班 | |
